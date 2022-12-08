@@ -1,5 +1,5 @@
 # ref  
-ttps://qiita.com/YutakaYamasaki/items/6a74be2a08c4986836c4
+https://qiita.com/YutakaYamasaki/items/6a74be2a08c4986836c4
 
 # popper install 
 https://medium-company.com/popper-min-js-download/
